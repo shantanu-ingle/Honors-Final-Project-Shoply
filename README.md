@@ -13,3 +13,11 @@ Simple and Basic Ecom platform built using express and react
 
  - You should see the `/login` route opened in the browser
  - In the backend server console, "Database Connected" should appear.
+
+##Login
+1. Admim
+   email- admin@gmail.com
+   pass- admin
+2. User1
+   email- user1@gmail.com
+   pass- user1
